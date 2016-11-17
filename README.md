@@ -1,2 +1,2 @@
 # issues
-Scenarios of reproducing issues in various projects
+Scenarios to reproduce issues in various projects
